@@ -1,0 +1,1 @@
+PlayerMovement.on_SPOOCed = PlayerMovement.on_disarmed

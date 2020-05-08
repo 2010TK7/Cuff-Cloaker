@@ -2,7 +2,7 @@
 	"name": "Cuff Cloaker",
 	"author": "TK7",
 	"description": "https://modworkshop.net/mod/27471",
-	"version": "2",
+	"version": "3",
 	"hooks": [
 		{"hook_id": "lib/units/beings/player/playermovement", "script_path": "playermovement.lua"}
 	]
